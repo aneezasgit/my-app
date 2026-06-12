@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  background-image: url('./src/assets/clock.jpeg');
+  background-image: url('./clock.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
